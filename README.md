@@ -20,14 +20,13 @@ senzcraft_assignment/
 │   ├── __init__.py
 │   ├── api.py
 │   └── contacts.py
-│
+│── database.py
 ├── .gitignore
 ├── requirements.txt
 ├── LICENSE
 ├── README.md
-└── main.py
-
-5 directories, 14 files
+├── main.py
+├── Dockerfile
 ```
 
 To update the project structure
